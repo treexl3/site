@@ -54,8 +54,6 @@ body{
 	width: 370px;
 	height: 1319px;
 	background-color: #1e2939;
-	position: relative;
-	top: 20px;
 }
 
 .content-left-top{
@@ -159,6 +157,14 @@ body{
 
 .content-right-top__list {
 	margin: 0 0 0 14px;
+}
+
+.content-right-top__list a{
+	color: #595959;
+}
+
+.content-right-top__list a:hover{
+	color: #1e2939;
 }
 
 .content-right-top__info-list div {
