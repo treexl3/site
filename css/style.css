@@ -43,7 +43,7 @@ body{
 }
 
 .content{
-	margin: 40px 257px 0 40px;
+	margin: 0 auto;
 	width: 1200px;
 	box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.3);
 	background-color: #ffffff;
@@ -51,6 +51,7 @@ body{
 }
 
 .content-left {
+	margin: 40px 0 0 0;
 	width: 370px;
 	height: 1319px;
 	background-color: #1e2939;
@@ -121,7 +122,7 @@ body{
 	position: absolute;
 	top: 0;
 	left: 425px;
-	margin: 142px 0 0 80px;
+	margin: 142px 0 0 180px;
 	width: 525px;
 	height: 1110px;
 }
